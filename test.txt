@@ -1,4 +1,4 @@
 public class identifiers{
-    int x = 120:
+    int A = 120;
     
 }
