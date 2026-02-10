@@ -1,0 +1,4 @@
+public class identifiers{
+    int x = 70:
+    
+}
